@@ -12,11 +12,6 @@ The FRP Dice Roller App is a mobile application developed using Jetpack Compose.
 - **Roll Results:** The app displays the results for each selected die.
 - **User Interface:** Intuitive and visually appealing UI created with Jetpack Compose.
 
-## 🛠️ Key Development Processes
-- **Character Design**: Modeled in Blender with detailed UV mapping and rigging.
-- **Environment Creation**: Crafted using Unity's terrain tools, height maps, and dynamic lighting.
-- **Interaction Mechanics**: Implemented using C# scripts to enable player interactions with rune stones.
-  
 ## ⚙️ Installation
 
 - Clone the repository:
